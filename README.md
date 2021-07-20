@@ -1,6 +1,4 @@
-# Hass Consulting Company: Supervised Learning IP
-
-# Hass Consulting Company Project
+# Hass Consulting Company: Supervised Learning IP - Week 7
 
 #### By **Ted Askoye Samuel**
 
