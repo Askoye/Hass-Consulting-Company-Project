@@ -3,9 +3,8 @@
 #### By **Ted Askoye Samuel**
 
 ## Description
-* You are a Data Scientist working for Hass Consulting Company which is a real estate leader with over 25 years of experience. 
-You have been tasked to study the factors that affect housing prices using the given information on real estate properties that was collected over the past few months. 
-Later onwards, you'll create a model that would allow the company to accurately predict the sale of prices upon being provided with the predictor variables.*
+Hass Consulting Company which is a real estate leader with over 25 years of experience and has delegated the task of studying the factors that affect housing prices using the given information on real estate properties that was collected over the past few months. 
+Later on, we'll create a model that would allow the company to accurately predict the sale of prices upon being provided with the predictor variables.*
 
 ## Experimental Design
 
